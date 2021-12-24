@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "envolvice.tests", "envolvice.tests\envolvice.tests.csproj", "{22A49411-2DEB-43DA-84BA-286FD7F8E07B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "envolvice.taskAPI", "envolvice.taskAPI\envolvice.taskAPI.csproj", "{329B1FBD-DF48-4035-8661-12713827DCA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22A49411-2DEB-43DA-84BA-286FD7F8E07B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A49411-2DEB-43DA-84BA-286FD7F8E07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A49411-2DEB-43DA-84BA-286FD7F8E07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A49411-2DEB-43DA-84BA-286FD7F8E07B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329B1FBD-DF48-4035-8661-12713827DCA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329B1FBD-DF48-4035-8661-12713827DCA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329B1FBD-DF48-4035-8661-12713827DCA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329B1FBD-DF48-4035-8661-12713827DCA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0B2EF79-C5FD-4F3C-AF2C-F42A30C8AA4E}
+	EndGlobalSection
+EndGlobal
